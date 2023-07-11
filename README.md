@@ -1,4 +1,4 @@
-## [[**Purpose:**]{.underline}]{.smallcaps} 
+## [[**Purpose:**]{.underline}]{.smallcaps}
 
 Exploring the world and the importance of data science. Additionally, learning the coding language commonly used for data science, R.
 
